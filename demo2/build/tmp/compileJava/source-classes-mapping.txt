@@ -1,0 +1,22 @@
+com/example/demo2/models/Company.java
+ com.example.demo2.models.Company
+com/example/demo2/repositories/CompanyRepo.java
+ com.example.demo2.repositories.CompanyRepo
+com/example/demo2/Demo2Application.java
+ com.example.demo2.Demo2Application
+com/example/demo2/services/CompanyService.java
+ com.example.demo2.services.CompanyService
+com/example/demo2/repositories/AddressRepo.java
+ com.example.demo2.repositories.AddressRepo
+com/example/demo2/models/Employee.java
+ com.example.demo2.models.Employee
+com/example/demo2/models/Address.java
+ com.example.demo2.models.Address
+com/example/demo2/services/AddressService.java
+ com.example.demo2.services.AddressService
+com/example/demo2/services/EmployeeService.java
+ com.example.demo2.services.EmployeeService
+com/example/demo2/repositories/EmployeeRepo.java
+ com.example.demo2.repositories.EmployeeRepo
+com/example/demo2/controllers/BaseController.java
+ com.example.demo2.controllers.BaseController
